@@ -1,0 +1,17 @@
+body{
+	background-image: url(blog6.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: center;
+}
+.container{
+	background-color: rgba(0,0,0,0.6);
+	width: 300px;
+}
+input{
+	color: white;
+	background-color: transparent;
+	border:0;
+	border-bottom: 2px solid yellow;
+	outline-style: none;
+}
